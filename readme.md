@@ -2,6 +2,9 @@
 
 Chipdatas Tool – a versatile program designed for electronic component calculations and explanations.
 
+<img src="logo.png" alt="logo" style="width:400px;">
+
+
 Key Features:
 
 1. Cross-platform compatibility: Chipdatas Tool is available for Windows, Mac, and Linux operating systems, providing a seamless experience for users across different platforms.
