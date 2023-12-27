@@ -1,0 +1,11 @@
+version: 3.9.1
+files:
+  - url: Chipdatas-Tools-mac-3.9.1-arm64.zip
+    sha512: qS9o0M0OC6ZGuzHJGG23yJfoJ5H6ZFb6MBC7SbcwxH/7elIzLFT2qJJb1tNiUNpD/T99jdv7QJ0no9AP6t2h5Q==
+    size: 86600616
+  - url: Chipdatas-Tools-mac-3.9.1-arm64.dmg
+    sha512: LKOFr8dsmTjcV7m90Dq3Gpws4ztTMOdhVWtsblxrIdxw53GpcHFJV9S6+negczYlJrC5BcnGNi2xiwznoQm4bw==
+    size: 89733253
+path: Chipdatas-Tools-mac-3.9.1-arm64.zip
+sha512: qS9o0M0OC6ZGuzHJGG23yJfoJ5H6ZFb6MBC7SbcwxH/7elIzLFT2qJJb1tNiUNpD/T99jdv7QJ0no9AP6t2h5Q==
+releaseDate: '2023-12-27T10:33:05.937Z'
