@@ -1,8 +1,8 @@
 version: 3.9.2
 files:
   - url: Chipdatas-Tools-win-3.9.2-x64.exe
-    sha512: 93bk7WswZ8enXtFfli2DBTrMQkhDavNOWJAunPqhjlJT0TW0mVfqC0nhvADnja4452QNB5QrsHKUSUF4KaU+Uw==
-    size: 72171072
+    sha512: iWGOYV4lxT/a1B6WG8edsn7ufsIEjOzThHuhcBwj8dIy57r5nGwMhrjsFRq8YYK6dVN5otYGzatXnlPXtE+1/w==
+    size: 72170949
 path: Chipdatas-Tools-win-3.9.2-x64.exe
-sha512: 93bk7WswZ8enXtFfli2DBTrMQkhDavNOWJAunPqhjlJT0TW0mVfqC0nhvADnja4452QNB5QrsHKUSUF4KaU+Uw==
-releaseDate: '2023-12-28T02:32:40.635Z'
+sha512: iWGOYV4lxT/a1B6WG8edsn7ufsIEjOzThHuhcBwj8dIy57r5nGwMhrjsFRq8YYK6dVN5otYGzatXnlPXtE+1/w==
+releaseDate: '2023-12-28T02:42:18.768Z'
